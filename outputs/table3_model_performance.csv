@@ -1,0 +1,9 @@
+Model,Subset,R2,RMSE,MAE
+ANN,Training,0.573,2.478,1.925
+ANN,Validation,0.66,2.264,1.81
+ANN,Test,0.54,2.518,1.478
+ANN,LOOCV (all data),0.51,2.723,1.991
+MLR,Training,0.653,2.235,1.83
+MLR,Validation,0.596,2.467,2.043
+MLR,Test,0.438,2.784,1.924
+MLR,LOOCV (all data),0.388,3.044,2.242

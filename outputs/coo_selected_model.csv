@@ -1,0 +1,7 @@
+,0
+hidden_layers,"(8,)"
+alpha,26.2927
+activation,relu
+train_cv_Q2,0.089
+exact_evals,516
+iterations,20
